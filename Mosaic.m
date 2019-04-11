@@ -1,6 +1,4 @@
 function [ x ] = Mosaic(sim,dim,n)
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
 
 %CORRESPONDING POINTS IN BOTH IMAGES SELECTED
 
