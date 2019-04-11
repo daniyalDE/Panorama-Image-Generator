@@ -8,12 +8,12 @@ After the points are selected the program computes its associated 3x3 Homography
 # Samples
 
 ## Input
-![Alt text](/k_a.jpg =150x150)
-![Alt text](/k_b.jpg =150x150)
-![Alt text](/k_c.jpg =150x150)
+<img src="/k_a.jpg" width="200">
+<img src="/k_b.jpg" width="200">
+<img src="/k_c.jpg" width="200">
 
 ## Output
-![Alt text](/OUTPUT1.jpg)
-![Alt text](/OUTPUT2.jpg)
-![Alt text](/OUTPUT3.jpg)
-![Alt text](/OUTPUT4.jpg)
+<img src="/OUTPUT1.jpg" width="200">
+<img src="/OUTPUT2.jpg" width="200">
+<img src="/OUTPUT3.jpg" width="200">
+<img src="/OUTPUT4.jpg" width="200">
